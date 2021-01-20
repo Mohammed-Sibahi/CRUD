@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+h3 {
+    margin-top: 70px;
+    margin-left: 50px;
+}
+table, tr, th {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+button {
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 550px;
+    align-items: center;
+}
+label {
+    padding: 20px;
+}
+.card {
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+h4 {
+    background-color: rgb(130, 214, 196);
+}
